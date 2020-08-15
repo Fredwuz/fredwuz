@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Whatsapp web Bot!
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fredwuz&repo=venom-bot-WhatsappWebBot&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fredwuz&repo=venom-bot-WhatsappWebBot&theme=darcula)
 
 
 - 🌱 I’m currently learning everything 
