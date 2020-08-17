@@ -4,7 +4,7 @@
 
 ## I'm a Student!
 
-- 🔭 I’m currently working on a Whatsapp web Bot!
+- 🔭 I’m currently working on a Whatsapp Web Bot!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fredwuz&repo=venom-bot-WhatsappWebBot&theme=dracula)](https://github.com/Fredwuz/venom-bot-WhatsappWebBot)
 
