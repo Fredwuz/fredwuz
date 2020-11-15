@@ -16,6 +16,7 @@
 
 [<img align="left" alt="fredwuz | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="fredwuz | Discord" width="22px" src="./discord.svg" />][discord]
+[<img align="left" alt="fredwuz | Steam" width="22px" src="./steam.svg" />][steam]
 
 
 <br />
@@ -33,6 +34,8 @@
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fredwuz&show_icons=true&theme=nightowl)
 
+
+[steam]: https://steamcommunity.com/id/frederic_sta
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/de/
 [github]: https://github.com/
