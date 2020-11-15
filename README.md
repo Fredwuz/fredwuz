@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fredwuz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="fredwuz | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="fredwuz | Twitter" width="22px" src="./twitter_logo2.svg" />][twitter]
+[<img align="left" alt="fredwuz | Discord" width="22px" src="./discord_logo.svg" />][discord]
 
 
 <br />
