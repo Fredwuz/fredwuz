@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="fredwuz | Twitter" width="22px" src="./twitter_logo2.svg" />][twitter]
-[<img align="left" alt="fredwuz | Discord" width="22px" src="./discord_logo.svg" />][discord]
+[<img align="left" alt="fredwuz | Discord" width="22px" src="./discord.svg" />][discord]
 
 
 <br />
