@@ -1,4 +1,5 @@
-### Hi there, I'm Frederic - aka Fredwuz 👋
+### Hi there, I'm Frederic - aka Fredwuz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fredwuz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffredwuz&screen_name=fredwuz)
 
