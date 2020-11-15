@@ -26,7 +26,7 @@
 [<img align="left" alt="Java" width="26px" src="./java.svg" />][java]
 [<img align="left" alt="Node.js" width="26px" src="./node_js.svg" />][nodejs]
 [<img align="left" alt="GitHub" width="26px" src="github.svg" />][github]
-[<img align="left" alt="Terminal" width="26px" src="./terminal.svg" />][]
+<img align="left" alt="Terminal" width="26px" src="./terminal.svg" />
 
 <br />
 
