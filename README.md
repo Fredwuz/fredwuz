@@ -35,7 +35,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fredwuz&show_icons=true&theme=nightowl)
 
 <!--- Icon are taken from Iconfinder.com --->
-[steam]: https://steamcommunity.com/id/frederic_sta
+[steam]: https://steamcommunity.com/profiles/76561198079804541
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/de/
 [github]: https://github.com/
