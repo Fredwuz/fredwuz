@@ -26,6 +26,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="./visual-studio-code.png" />][vscode]
 [<img align="left" alt="Java" width="26px" src="./java.svg" />][java]
 [<img align="left" alt="Node.js" width="26px" src="./node_js.svg" />][nodejs]
+[<img align="left" alt="Oracle Apex" width="26px" src="oracle-apex.png" />][oracle_apex]
 [<img align="left" alt="GitHub" width="26px" src="github.svg" />][github]
 <img align="left" alt="Terminal" width="26px" src="./terminal.svg" />
 
@@ -42,3 +43,4 @@
 [nodejs]: https://nodejs.org/en
 [twitter]: https://twitter.com/fredwuz
 [discord]: https://discord.gg/SZxPukb
+[oracle_apex]: https://apex.oracle.com
