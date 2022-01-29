@@ -1,5 +1,6 @@
-### Hi there, I'm Frederic - aka Fredwuz 👋 
+<img align="right" alt="count" src="https://count.getloli.com/get/@:fredwuz?theme=rule34">
 
+### Hi there, I'm Frederic - aka Fredwuz 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fredwuz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffredwuz&screen_name=fredwuz)
 
