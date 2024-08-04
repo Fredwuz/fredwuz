@@ -1,6 +1,3 @@
-<a style="visibility: hidden;" rel="me" href="https://mastodon.social/@fredwuz"></a>
-
-
 <img align="right" alt="count" src="https://count.getloli.com/get/@:fredwuz?theme=rule34">
 
 ### Hi there, I'm Frederic - aka Fredwuz 👋 
