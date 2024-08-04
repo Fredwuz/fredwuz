@@ -1,3 +1,6 @@
+<a style="visibility: hidden;" rel="me" href="https://mastodon.social/@fredwuz"></a>
+
+
 <img align="right" alt="count" src="https://count.getloli.com/get/@:fredwuz?theme=rule34">
 
 ### Hi there, I'm Frederic - aka Fredwuz 👋 
@@ -18,6 +21,7 @@
 [<img align="left" alt="fredwuz | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="fredwuz | Discord" width="22px" src="./discord.svg" />][discord]
 [<img align="left" alt="fredwuz | Steam" width="22px" src="./steam.svg" />][steam]
+[<img align="left" alt="fredwuz | Steam" width="22px" src="./mastodon.svg" />][mastodon]
 
 
 <br />
@@ -45,3 +49,6 @@
 [twitter]: https://twitter.com/fredwuz
 [discord]: https://discord.gg/SZxPukb
 [oracle_apex]: https://apex.oracle.com
+[mastodon]: https://mastodon.social/@fredwuz
+
+
